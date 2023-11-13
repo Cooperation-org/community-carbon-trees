@@ -1,6 +1,6 @@
 # Attestations for Community Carbon Trees
 
-The goal of this project is to enable independent validation of tree planting efforts by [Community Carbon Trees](communitycarbontrees.org) as a pilot.
+The goal of this project is to enable independent validation of tree planting efforts by [Community Carbon Trees](https://communitycarbontrees.org) as a pilot.
 
 This project will enable existing ecotourists and others on site to validate their work through ProofMode cryptographically signed photos and LinkedClaims that are published through Ethereum Attestation Service via offchain storage on Ceramic network, without disrupting the flow of their real work on the ground. 
 
